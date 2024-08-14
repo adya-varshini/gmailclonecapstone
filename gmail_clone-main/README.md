@@ -60,30 +60,4 @@ npm start
 
 ![Screenshot 4](https://github.com/Lucky4604/gmail/assets/87716511/184623f4-a715-43eb-9517-de186246887f)
 
-## Contributing
-
-If you'd like to contribute to this project, you can follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add your message"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Create a pull request explaining your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or inquiries, please contact the project maintainer.
 
